@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to the project! Even if it looks complicated, don't panic! You'll get the hang of it in a jiffy. 
